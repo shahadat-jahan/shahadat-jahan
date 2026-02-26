@@ -47,7 +47,7 @@ I build scalable backend systems — ERP platforms, CRM solutions, Medical Manag
 
 ## 📈 Experience
 
-- **Software Engineer** @ [Vivasoft Limited](https://vivasoft.net) *(Oct 2022 – Present)*
+- **Software Engineer** @ [Vivasoft Limited](https://vivasoftltd.com) *(Oct 2022 – Present)*
 - **Junior Software Engineer** @ Swapnoloke *(Apr 2022 – Sep 2024)*
 
 ---
