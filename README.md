@@ -55,7 +55,7 @@ I build scalable backend systems — ERP platforms, CRM solutions, Medical Manag
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-shahadat.jahan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahadat.jahan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahadat-jahan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadat-jahan/)
 
 ---
 
