@@ -39,7 +39,7 @@ I build scalable backend systems — Modular multi-tenant SaaS, ERP platforms, C
 | **MM Builders ERP** | Purchase, sales & tender management modules for construction ERP | Laravel · MySQL |
 ---
 ## 📈 Experience
-- **Software Engineer** @ [Vivasoft Limited](https://vivasoftltd.com) *(Oct 2022 – Present)*
+- **Software Engineer** @ [Vivasoft Limited](https://vivasoftltd.com) *(Oct 2022 – Mar 2026)*
 - **Junior Software Engineer** @ Swapnoloke *(Apr 2022 – Sep 2024)*
 ---
 ## 📫 Let's Connect
