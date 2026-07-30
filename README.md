@@ -31,7 +31,7 @@ I build scalable backend systems — Modular multi-tenant SaaS, ERP platforms, C
 ## 💼 What I've Built
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Sutra SaaS** | Modular multi-tenant ERP/POS for Bangladeshi retail & pharmacy — subdomain-based tenancy, event-driven inventory, dynamic module control | Laravel 13 · React · Inertia.js · PostgreSQL · Tailwind · Shadcn UI |
+| **Sutra Inventory & POS** | Modular multi-tenant Inventory POS for Bangladeshi retail & pharmacy — subdomain-based tenancy, event-driven inventory, dynamic module control | Laravel 13 · PHP 8.5 · React · Inertia.js · PostgreSQL · Tailwind · Shadcn UI |
 | **Student Management System** | Full academic & accounting platform for North East Medical College — scheduling, attendance, exams, fees | Laravel · MySQL · Docker |
 | **Flash Card** | API-driven blog platform following JSON API spec with full-text search & monitoring | Laravel · PostgreSQL · Sanctum · Scout |
 | **PiHR CRM** | Lead-to-customer lifecycle management with real-time UI | Laravel · MySQL · Ajax |
