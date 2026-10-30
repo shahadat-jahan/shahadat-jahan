@@ -49,11 +49,11 @@ I build scalable backend systems — modular multi-tenant platforms, ERP & POS s
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**SUTRA ERP**](https://github.com/shahadat-jahan/sutra-erp) | Multi-tenant modular ERP for commerce & manufacturing — product catalog, immutable stock ledger with serial/lot tracking, kits & BOM, invoicing, dealer commissions | Laravel 13 · React · Inertia.js · TypeScript · PostgreSQL · Redis |
-| [**SUTRA POS**](https://github.com/shahadat-jahan/sutra-pos) | Modular multi-tenant POS for Bangladeshi retail & pharmacy — subdomain-based tenancy, event-driven inventory, dynamic module control | Laravel 13 · PHP 8.5 · React · Inertia.js · PostgreSQL · Redis · Tailwind · Shadcn UI |
+| [**SUTRA POS**](https://github.com/shahadat-jahan/sutra-pos) | Modular multi-tenant POS for Bangladeshi retail & pharmacy — subdomain-based tenancy, event-driven inventory, dynamic module control | Laravel 13 · PHP 8.5 · React · Inertia.js · PostgreSQL · Redis · Tailwind |
 | [**NEMC Student Management System**](https://github.com/shahadat-jahan/nemc) | Full academic & accounting platform for North East Medical College — scheduling, attendance, exams, fees, reports | Laravel · MySQL · Docker · Queues · Supervisor |
 | [**FlashCard**](https://github.com/shahadat-jahan/flashcard_backend) | API-driven tips-sharing platform following JSON:API spec with full-text search & monitoring | Laravel 11 · PostgreSQL · Sanctum · Scout |
 | [**Byabsha Track**](https://github.com/shahadat-jahan/byabsha-track) | Multi-owner, multi-shop inventory & business tracking — FIFO batch costing, transaction-safe stock, P&L reports with PDF export | Laravel 12 · laravel-modules · MySQL · Pest |
-| [**TechZu STMS**](https://github.com/shahadat-jahan/techzu-stms) | Support ticket & SLA management — escalation matrices, breach alerts, compliance dashboards | Laravel 13 · MySQL · Tailwind |
+| [**TechZu STMS**](https://github.com/shahadat-jahan/techzu-stms) | Support ticket & SLA management — escalation matrices, breach alerts, compliance dashboards | Laravel 13 · PostgreSQL · Tailwind . Docker . Redis |
 
 ---
 
